@@ -1,6 +1,6 @@
 === InviteReferrals ===
 Contributors: InviteReferrals
-Tags: Refer a friend, Referral, referral program, Customer Referral Campaigns, Contests, Customer Referral Program, Referrals, Affiliate, Ambassador, Marketing, Invitereferrals, refer friends, invite referrals, invitereferral, invitereferrals
+Tags: Refer a friend, Referral, referral program, Customer Referral Campaigns, Contests, Customer Referral Program, Referrals, Affiliate, Ambassador, Marketing, Invitereferrals, refer friends, invite referrals, invitereferral, invitereferrals, invite friends, viral marketing, social marketing
 Requires at least: 3.0
 Tested up to: 3.6.1
 Stable tag: 1.0
