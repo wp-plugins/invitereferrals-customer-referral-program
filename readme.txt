@@ -15,36 +15,41 @@ http://www.invitereferrals.com
 Creating campaign does not require any technical knowledge. You also get an Facebook referral Timeline app.
 
 You can set up 3 types of referral campaigns:
-1. Referral program with instant rewards - Invite 50 friends to unlock gratification
-2. Top Referral contest - Reward top 3 referrers of the campaigns based on maximum sales, invites or referral traffic
-3. Referral program with goal-based rewards - Reward customers for referral sales or referral registrations.
+<ol>
+<li>Referral program with instant rewards - Invite 50 friends to unlock gratification</li>
+<li>Top Referral contest - Reward top 3 referrers of the campaigns based on maximum sales, invites or referral traffic</li>
+<li>Referral program with goal-based rewards - Reward customers for referral sales or referral registrations.</li>
+</ol>
 
 Watch quick 1 minute introduction
-http://www.youtube.com/embed/cJmT8lK2Aps?rel=0
+[youtube http://www.youtube.com/watch?v=cJmT8lK2Aps]
 
 InviteReferrals is available in 18+ languages including swedish, russian, romanian, polish, latvian, latin, korea, greek, french, finnish, dutch, danish, arabic, italy, german, spanish, portuguese, thai. To help us support more languages (only 25 translations required), contact us on alliances@tagnpin.com
 
 Features
-* Multiple types of referral widgets
-* Mobile compatible - works on all device types
-* Detailed analytics
-* Fully customizable email templates, campaign views, and referral invite content through WYSIWYG editor
-* Select from multiple customer referral options including facebook share, twitter, email, chat, google+, linkedin, facebook notifications etc
-* Built for marketers. No code changes required after one time integration
-* Select from 3 types of customer referral programs - Instant gratification campaign, Top referrer campaign or goal based referral campaign
-* Identify and reward most influential referrers based on filters like invites sent, referral site visits or referral sales.
-* Select between unique/static coupons, or any other form of gratification like offline shipment.
-* Referral fraud prevention mechanisms are built right into your referral campaign. It includes spam proof notification system, identification of suspicious participants or manual conversion review among many other mechanisms
-* All referral campaign data can be exported.
-* Full automation
-* Create Facebook referral app
-* Non-blocking, high-performance code
-
+<ul>
+<li>Multiple types of referral widgets</li>
+<li>Mobile compatible - works on all device types</li>
+<li>Detailed analytics</li>
+<li>Fully customizable email templates, campaign views, and referral invite content through WYSIWYG editor</li>
+<li>Select from multiple customer referral options including facebook share, twitter, email, chat, google+, linkedin, facebook notifications etc</li>
+<li>Built for marketers. No code changes required after one time integration</li>
+<li>Select from 3 types of customer referral programs - Instant gratification campaign, Top referrer campaign or goal based referral campaign</li>
+<li>Identify and reward most influential referrers based on filters like invites sent, referral site visits or referral sales.</li>
+<li>Select between unique/static coupons, or any other form of gratification like offline shipment.</li>
+<li>Referral fraud prevention mechanisms are built right into your referral campaign. It includes spam proof notification system, identification of suspicious participants or manual conversion review among many other mechanisms</li>
+<li>All referral campaign data can be exported.</li>
+<li>Full automation</li>
+<li>Create Facebook referral app</li>
+<li>Non-blocking, high-performance code</li>
+</ul>
 
 Free Plan And Paid Plans
-* We offer InviteReferrals as a free plan. You can use the free plan as long as you want without paying.
-* We also offer different pricing plans with assortment of features and capabilities. For further details please visit : http://www.invitereferrals.com/campaign/site/price
-* We offer 14 days free trial period on all the paid plans.
+<ul>
+<li>We offer InviteReferrals as a free plan. You can use the free plan as long as you want without paying.</li>
+<li>We also offer different pricing plans with assortment of features and capabilities. For further details please visit : http://www.invitereferrals.com/campaign/site/price</li>
+<li>We offer 14 days free trial period on all the paid plans.</li>
+</ul>
 
 
 == Installation ==
