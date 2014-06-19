@@ -16,9 +16,7 @@ Creating campaign does not require any technical knowledge. You also get an Face
 
 You can set up 3 types of referral campaigns:
 1. Referral program with instant rewards - Invite 50 friends to unlock gratification
-
 2. Top Referral contest - Reward top 3 referrers of the campaigns based on maximum sales, invites or referral traffic
-
 3. Referral program with goal-based rewards - Reward customers for referral sales or referral registrations.
 
 Watch quick 1 minute introduction
@@ -73,7 +71,7 @@ Write to us at alliances@tagnpin.com for any query
 3. Widget in plugin directory
 4. Demo referral sale conversion based widget
 5. Demo share to unlock incentive widget
-6. InviteReferrals Logo
-7. Admin panel preview
+6. Admin panel preview
+7. InviteReferrals Logo
 
 
