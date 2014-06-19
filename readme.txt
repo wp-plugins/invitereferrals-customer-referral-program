@@ -61,9 +61,11 @@ This section describes how to install the plugin and get it working.
 3. Visit your InviteReferrals options (*Options - InviteReferrals*) for Wordpress 2.3.x, (*Settings - InviteReferrals*) for Wordpress 2.5.x-2.8.x 
 4. Paste the key you received from http://www.InviteReferrals.com/ or get it from your www.InviteReferrals.com as explained in step 5.
 5. Get Secret Key and brandid (used in edit module setting) as explained in the following steps
--> Go to www.invitereferrals.com and login (using information from registration)
--> Go to the Website Integration section on sidebar
--> Note the BrandID and Secret Key
+<ul>
+<li>Go to www.invitereferrals.com and login (using information from registration)</li>
+<li>Go to the Website Integration section on sidebar</li>
+<li>Note the BrandID and Secret Key</li>
+</ul>
 
 == Frequently Asked Questions ==
 
