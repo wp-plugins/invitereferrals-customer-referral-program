@@ -16,11 +16,13 @@ Creating campaign does not require any technical knowledge. You also get an Face
 
 You can set up 3 types of referral campaigns:
 1. Referral program with instant rewards - Invite 50 friends to unlock gratification
+
 2. Top Referral contest - Reward top 3 referrers of the campaigns based on maximum sales, invites or referral traffic
+
 3. Referral program with goal-based rewards - Reward customers for referral sales or referral registrations.
 
 Watch quick 1 minute introduction
-<iframe width="532" height="325" src="//www.youtube.com/embed/cJmT8lK2Aps?rel=0" frameborder="0" allowfullscreen=""></iframe>
+http://www.youtube.com/embed/cJmT8lK2Aps?rel=0
 
 InviteReferrals is available in 18+ languages including swedish, russian, romanian, polish, latvian, latin, korea, greek, french, finnish, dutch, danish, arabic, italy, german, spanish, portuguese, thai. To help us support more languages (only 25 translations required), contact us on alliances@tagnpin.com
 
