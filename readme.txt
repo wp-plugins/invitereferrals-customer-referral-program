@@ -72,5 +72,6 @@ Write to us at alliances@tagnpin.com for any query
 4. Demo referral sale conversion based widget
 5. Demo share to unlock incentive widget
 6. InviteReferrals Logo
+7. Admin panel preview
 
 
