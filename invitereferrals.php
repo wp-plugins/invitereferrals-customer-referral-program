@@ -98,24 +98,6 @@ if(!class_exists('InviteReferrals')) :
             add_action('admin_menu', array(&$this, 'menu'));
             // Register sidebar widget
             add_action('widgets_init', 'invitereferrals_widget_register_widgets');
-
-
-            function admin_scripts() {
-
-                $wp_invitereferrals_plugin_url = plugins_url('wp-invitereferrals.js', $GLOBALS['invitereferrals_file']);
-                wp_register_script( 'invitereferrals-admin-js', $wp_invitereferrals_plugin_url ,array('jquery-ui-core','jquery-ui-dialog','jquery-ui-widget','json2'));
-                wp_enqueue_script('invitereferrals-admin-js');
-            }
-
-            function admin_styles() {
-
-                wp_register_style( 'jquery-style', 'http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.1/themes/smoothness/jquery-ui.css', true);
-                wp_enqueue_style( 'jquery-style' );
-
-            }
-
-            add_action( 'admin_print_scripts-settings_page_invitereferrals-plugin', 'admin_scripts' );
-            add_action( 'admin_print_styles-settings_page_invitereferrals-plugin', 'admin_styles' );
            
         }
 
