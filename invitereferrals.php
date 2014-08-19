@@ -165,7 +165,7 @@ if(!class_exists('InviteReferrals')) :
 				bid : '".$bid."', email : '".$setUserEmail."',
 				t : '".$t."', userParams : {'fname' : '".$fname."'} };	
 			var script = document.createElement('script');script.async = true;
-			script.src = 'http://' + 'cdn.invitereferrals.com/js/invite-referrals-1.0.js';
+                        script.src = (document.location.protocol == 'https:' ? '//d11yp7khhhspcr.cloudfront.net' : '//cdn.invitereferrals.com') + '/js/invite-referrals-1.0.js';
 			var entry = document.getElementsByTagName('script')[0];entry.parentNode.insertBefore(script, entry); })();
 			</script>";				
         }
