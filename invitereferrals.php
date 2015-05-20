@@ -3,7 +3,7 @@
     Plugin Name: inviteReferrals Customer Referral Campaigns for Wordpress
     Plugin URI: http://www.invitereferrals.com
     Description: Design and launch Customer Referral campaigns within minutes. To get started: 1) Get your key by registering your site at <a href="http://www.invitereferrals.com">invitereferrals.com</a>, 2) Enter your key on the <a href='options-general.php?page=invitereferrals-plugin'>Settings->inviteReferrals</a> menu, and 3) Click on the Activate link to the left of this description.
-    Version: 1.0
+    Version: 2.0
     Author: inviteReferrals
     Author URI: http://www.invitereferrals.com
 */
