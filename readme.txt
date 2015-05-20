@@ -3,7 +3,7 @@ Contributors: InviteReferrals
 Tags: refer a friend, referral, referral program, customer referral campaign, contest, customer referral program, referrals, affiliate, ambassador, marketing, invitereferrals, refer friends, invite referrals, invitereferral, invitereferrals, invite friends, viral marketing, social marketing, , social, promotion, tell a friend, word of mouth, widget, Tags: refer a friend, referral, referral program, customer referral campaign, contest, customer referral program, referrals, affiliate, ambassador, marketing, invitereferrals, refer friends, invite referrals, invitereferral, invitereferrals, invite friends, viral marketing, social marketing, , social, promotion, tell a friend, word of mouth, widget, campaigns, contests, Customer Referral Campaigns, customer referrals, email marketing, Facebook, friend, friends, google plus, increase, increase sales, marketing campaign, referral campaign, Referral Marketing, Refiral, sales, social media, social media marketing, twitter, viral, viral marketing, woocommerce, invitebox, invite box, referralcandy, friend buy, getambassador
 Requires at least: 3.0
 Tested up to: 4.2.2
-Stable tag: 1.0
+Stable tag: 2.0
 Licence : GPLv2
 
 Design and launch customer referral campaigns within minutes in Wordpress.
