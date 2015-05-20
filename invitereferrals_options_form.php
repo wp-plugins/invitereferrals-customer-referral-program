@@ -22,9 +22,33 @@ button {
    font-weight: bold;
    padding: 5px 15px;
 }
+
+.Invitereferrals_desc {
+	float: right;
+	width: 40%;
+	margin-top: 20px;
+	background: #FFF;
+	padding: 10px;
+	border-radius: 10px;
+}
+.Invitereferrals_logo {
+	width: 96px;
+	margin: 0 auto;
+}
+
+.Invitereferrals_col {
+	width: 50%;
+	float: left;
+}
+
+
 </style>
 
 <div class="wrap">
+
+<div class="Invitereferrals_col">
+
+
     <?php screen_icon(); ?>
     <form action="options.php" method="post" id=<?php echo $this->plugin_id; ?>"_options_form" name=<?php echo $this->plugin_id; ?>"_options_form">
     <?php settings_fields($this->plugin_id.'_options'); ?>
@@ -62,4 +86,17 @@ button {
     </tr>
     </table>
     </form>
+	
+	</div>
+	
+	<div class="Invitereferrals_desc">
+		<div class="Invitereferrals_logo"><a target="_blank" href="http://www.Invitereferrals.com"><img src="http://d11yp7khhhspcr.cloudfront.net/images/site/campaigns/site/inviteReferralsLogo3.png" width="150%" " /></a></div>
+		<hr/>
+		<h3 style="text-align: center;">Simplest Referral Marketing Software.</h3> 
+		<div style="text-align: justify;">Start your Custom Referrral Program. <a target="_blank" href="http://www.invitereferrals.com/campaign/brand/register">Sign Up Here </a>
+		<br>For Queries Contact: <strong>support@tagnpin.com</strong>
+		<br>For Documentation <a target="_blank" href="http://www.invitereferrals.com/campaign/documentation/home">Click Here </a>
+		<br>Invitereferrlas Wordpress Page <a target="_blank" href="https://wordpress.org/plugins/invitereferrals-customer-referral-program/">Click Here </a></div> 
+	</div>
+	
 </div>
